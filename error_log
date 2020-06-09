@@ -1,0 +1,768 @@
+[12-Jan-2017 01:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:33
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 33
+[12-Jan-2017 01:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:33
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 33
+[12-Jan-2017 02:00:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:01:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:02:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:03:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:03:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:04:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:04:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:04:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:34
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 34
+[12-Jan-2017 02:05:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:33
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 33
+[12-Jan-2017 02:06:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:33
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 33
+[12-Jan-2017 02:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:33
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 33
+[12-Jan-2017 02:06:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:33
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 33
+[12-Jan-2017 09:08:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKey() in /home/u7713572/public_html/admin/application/views/fundraising/v_kebutuhan.php:117
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('fundraising/v_k...')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php(34): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#7 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#8 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/fundraising/v_kebutuhan.php on line 117
+[12-Jan-2017 02:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:11:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:11:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:11:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:13:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:16:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:16:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:19:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:22:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:22:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_kebutuhan::GetKebutuhan() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php:11
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_kebutuhan->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 11
+[12-Jan-2017 02:24:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/u7713572/public_html/admin/application/controllers/fundraising/c_kebutuhan.php on line 54
+[12-Jan-2017 02:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function GetKey() on null in /home/u7713572/public_html/admin/application/controllers/c_home.php:30
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_home->index()
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/c_home.php on line 30
+[23-Jan-2017 10:30:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:31:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:33:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:36:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:36:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:37:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:37:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:37:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:37:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:37:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:37:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:39:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 10:39:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(27): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(13): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 11:39:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:39:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:40:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:41:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:42:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:42:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:43:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:43:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:44:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:44:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(6): CI_Loader->view('master/v_ustad')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 11:45:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 11:45:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(29): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 11:46:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(35): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 11:46:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(35): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 11:46:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(35): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 11:47:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(35): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#7 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#8 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#9 {main}
+  throw in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 11:48:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(30): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#7 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#8 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 11:48:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function GetAccessUsers() on null in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php:2
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/views/v_home.php(2): CI_Loader->view('lib/v_lib_menu')
+#3 /home/u7713572/public_html/admin/system/core/Loader.php(834): include('/home/u7713572/...')
+#4 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#5 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(30): CI_Loader->view('v_home', Array)
+#6 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#7 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#8 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/lib/v_lib_menu.php on line 2
+[23-Jan-2017 04:50:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(31): CI_Loader->view('master/v_ustad', Array)
+#3 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#4 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#5 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#6 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 04:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(31): CI_Loader->view('master/v_ustad', Array)
+#3 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#4 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#5 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#6 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 04:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(31): CI_Loader->view('master/v_ustad', Array)
+#3 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#4 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#5 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#6 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 04:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(31): CI_Loader->view('master/v_ustad', Array)
+#3 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#4 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#5 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#6 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 04:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(33): CI_Loader->view('master/v_ustad', Array)
+#3 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#4 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#5 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#6 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[23-Jan-2017 04:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function result() on array in /home/u7713572/public_html/admin/application/views/master/v_ustad.php:278
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/Loader.php(834): include()
+#1 /home/u7713572/public_html/admin/system/core/Loader.php(420): CI_Loader->_ci_load(Array)
+#2 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(33): CI_Loader->view('master/v_ustad', Array)
+#3 /home/u7713572/public_html/admin/application/controllers/master/c_ustad.php(14): c_ustad->getUstad()
+#4 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): c_ustad->index()
+#5 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#6 {main}
+  thrown in /home/u7713572/public_html/admin/application/views/master/v_ustad.php on line 278
+[25-Jan-2017 10:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_realisasi::GetPeriode() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_realisasi_detail.php:25
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_realisasi_detail->index('1')
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_realisasi_detail.php on line 25
+[25-Jan-2017 10:30:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_realisasi::GetPeriode() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_realisasi_detail.php:25
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_realisasi_detail->index('1')
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_realisasi_detail.php on line 25
+[25-Jan-2017 10:30:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method M_realisasi::GetPeriode() in /home/u7713572/public_html/admin/application/controllers/fundraising/c_realisasi_detail.php:25
+Stack trace:
+#0 /home/u7713572/public_html/admin/system/core/CodeIgniter.php(360): C_realisasi_detail->index('5')
+#1 /home/u7713572/public_html/admin/index.php(202): require_once('/home/u7713572/...')
+#2 {main}
+  thrown in /home/u7713572/public_html/admin/application/controllers/fundraising/c_realisasi_detail.php on line 25
